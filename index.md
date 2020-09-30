@@ -10,7 +10,7 @@ Meet other individuals of varying experiences who are also enthusiastic in tech.
 By filling out the form below you will receive weekly emails updating you on the club's progress
 and obtain the ability to join our weekly meetings.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1__tmuMPAw5j3uKujuDw1ibA2vSBYvu3Ww50eGQJIj6EejA/viewform?embedded=true" width="640" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1__tmuMPAw5j3uKujuDw1ibA2vSBYvu3Ww50eGQJIj6EejA/viewform?embedded=true" width="640" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Current Projects
 
