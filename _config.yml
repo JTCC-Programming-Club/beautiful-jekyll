@@ -2,4 +2,4 @@ theme: jekyll-theme-hacker
 title: John Tyler Programming Club
 description: Meets Every Thursday From 1-2pm.
 github:
-  is_project_page: false
+  is\_project\_page: false
