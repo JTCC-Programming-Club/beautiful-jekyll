@@ -1,37 +1,20 @@
 ## Welcome to The Programming Club
 
-You can use the [editor on GitHub](https://github.com/JTCC-Programming-Club/beautiful-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We complete various projects to gain experience that can be relevant to pursuing a career
+with a Computer Science focus, but students of all majors are welcomed to join. The Programming
+Club is not only a place to grow your skills, but also to grow your personal and professional connections.
+Meet other individuals of varying experiences who are also enthusiastic in tech.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Join us
 
-### Markdown
+By filling out the form below you will receive weekly emails updating you on the club's progress
+and obtain the ability to join our weekly meetings.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1__tmuMPAw5j3uKujuDw1ibA2vSBYvu3Ww50eGQJIj6EejA/viewform?embedded=true" width="640" height="745" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-```markdown
-Syntax highlighted code block
+## Current Projects
 
-# Header 1
-## Header 2
-### Header 3
+### The Website
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JTCC-Programming-Club/beautiful-jekyll/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This webpage is actually temporary. We are working on a dynamic website which will display
+all our future projects.
