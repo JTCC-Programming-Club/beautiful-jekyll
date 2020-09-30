@@ -12,7 +12,7 @@ Meet other individuals of varying experiences who are also enthusiastic in tech.
 This webpage is actually temporary. We are working on a dynamic website which will display
 all our future projects.
 
-## Join us
+### Join us
 
 By filling out the form below you will receive weekly emails updating you on the club's progress
 and obtain the ability to join our weekly meetings.
