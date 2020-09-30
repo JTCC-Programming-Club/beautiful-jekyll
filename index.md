@@ -13,7 +13,7 @@ and obtain the ability to join our weekly meetings.
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1__tmuMPAw5j3uKujuDw1ibA2vSBYvu3Ww50eGQJIj6EejA/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ## Current Projects
 
-### The Website 
+### The Website
 
 This webpage is actually temporary. We are working on a dynamic website which will display
 all our future projects.
